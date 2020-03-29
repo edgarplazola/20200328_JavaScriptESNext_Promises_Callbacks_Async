@@ -1,0 +1,18 @@
+Qué es webpack? 
+
+URL: https://webpack.js.org/
+
+Webpack: Empaquetador de módulos
+Nos ayuda a:
+1.- Gestionar las dependencias.
+2.- Montar servidores de desarrollo y pruebas
+3.- Cargar módulos
+4.- Convertir a diferentes formatos. Ex: ES8 a ES5
+5.- Minimizar código
+6.- Compilar de SASS a CSS
+7.- Compitar de TS a JS
+8.- Nos permite trabajar con JS moderno.
+
+Contras:
+Configuración inicial puede ser un dolor de cabeza.
+Puede ser algo complicado detectar problemas con algún paquete.
